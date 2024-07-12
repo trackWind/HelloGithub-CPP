@@ -1,4 +1,7 @@
-难绷，才弄了就几个就发现人家官网有分类查询，建议直接去官网看
+难绷，才弄了就几个就发现人家官网有分类查询，建议直接去官网看：https://hellogithub.com/periodical
+
+![image](https://github.com/user-attachments/assets/81b6b133-d80e-4470-915d-ec260c2d8749)
+
 
 # HelloGithub-CPP
 Summary of C++ Projects in the HelloGitHub Monthly Magazine by 521xueweihan
